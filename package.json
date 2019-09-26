@@ -1,0 +1,27 @@
+{
+  "name": "hola-mundo-node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pombodaniel10/hola-mundo-node-express.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Daniel Pombo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pombodaniel10/hola-mundo-node-express/issues"
+  },
+  "homepage": "https://github.com/pombodaniel10/hola-mundo-node-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
